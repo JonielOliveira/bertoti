@@ -1,0 +1,8 @@
+Select all students that have id between 65 and 70.
+Select all students that have part of name like Alessandra.
+Select all students that have cpf equal to '534.260.220-36'.
+Select all students that have 'peso' between 75.4 and 84.8.
+Select all students that have 'peso' between 75.4 and 84.8 and id greated than 69.
+Select all students who are more than 20 years old. Verify this using burn date in database schema. We are in 2024.
+Select all students that have weight more than 75.
+Select the student that has id equals to 8.

@@ -1,0 +1,1 @@
+SELECT * FROM alunos.aluno WHERE nome LIKE '%Joniel%';
