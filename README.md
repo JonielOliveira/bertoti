@@ -23,3 +23,9 @@ Este projeto implementa um chatbot para o Telegram que realiza as seguintes fun�
 - **Manipulação de áudio**: `pydub`
 - **Processamento de áudio**: `ffmpeg`
 - **Integração com Telegram**: `python-telegram-bot`
+
+## 👥 Integrantes do Grupo
+
+- 👨‍💻 [Joniel Oliveira](https://github.com/JonielOliveira)
+- 👨‍💻 [Lucas Cassiano](https://github.com/LucasCassiano1)
+- 👩‍💻 [Mariana Tebecherani](https://github.com/Marianatebecherani)
