@@ -1,0 +1,9 @@
+antipattern\ViajanteBicicleta.class
+pattern\Bicicleta.class
+pattern\Viajante.class
+antipattern\Viajante.class
+antipattern\ViajanteCarro.class
+antipattern\Teste.class
+pattern\Carro.class
+pattern\Teste.class
+pattern\Transporte.class
