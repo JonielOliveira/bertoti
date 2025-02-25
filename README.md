@@ -1,12 +1,20 @@
 # Bertoti
-Repositório com materiais de aula.
 
-## Engenharia1:
-Exercício de engenharia de software.
+Repositório com materiais da disciplina **Engenharia de Software III**.
 
-## LMStudioSQLQueryByLLM:
-Aplicação em Java com integração entre o LM Studio (LLM) e Banco de Dados (MySQL) para realizar consultas.
+## 📌 Engenharia de Software III
+Este repositório contém exercícios práticos desenvolvidos em **Java**, com foco na aplicação de **padrões de projeto (Design Patterns)**. Os exemplos incluem código-fonte e diagramas **UML** correspondentes, facilitando o entendimento dos conceitos abordados.
 
-:movie_camera: Video de demonstração da aplicação funcionando:
+## 🎯 Design Patterns Implementados
+Os seguintes padrões de projeto foram implementados:
 
-https://github.com/JonielOliveira/LMStudioSQLQueryByLLM/assets/143021491/0a429ae1-d2be-48f7-9f3e-730ae6ef388b
+- **Strategy**
+
+## 📚 Material de Referência
+Para aprofundamento no estudo dos padrões de projeto utilizados, consulte o seguinte material:
+
+🔗 [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns)
+
+---
+
+✅ Repositório destinado ao aprendizado e aprimoramento das boas práticas de Engenharia de Software!
