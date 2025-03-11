@@ -9,6 +9,7 @@ Este repositório contém exercícios práticos desenvolvidos em **Java**, com f
 Os seguintes padrões de projeto foram implementados:
 
 - **Strategy**
+- **Observer**
 
 ## 📚 Material de Referência
 Para aprofundamento no estudo dos padrões de projeto utilizados, consulte o seguinte material:
