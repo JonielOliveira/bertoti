@@ -1,0 +1,8 @@
+pattern\InventoryView.class
+pattern\ProductObserver.class
+pattern\ControllerInterface.class
+pattern\ProductSubject.class
+pattern\InventoryModel.class
+pattern\Teste$1.class
+pattern\Teste.class
+pattern\InventoryController.class

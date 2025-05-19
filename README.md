@@ -10,6 +10,7 @@ Os seguintes padrões de projeto foram implementados:
 
 - **Strategy**
 - **Observer**
+- **MVC (Model-View-Controller)**
 
 ## 📚 Material de Referência
 Para aprofundamento no estudo dos padrões de projeto utilizados, consulte o seguinte material:
